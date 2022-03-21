@@ -1,0 +1,24 @@
+<h1> This is a level one heading created using the h1 tag<h1/>
+<!--Below are level one to 6 headings created using h1 to h6 tag -->
+<h1>Heading level 1</h1>
+<h2>Heading level 2</h2>
+<h3>Heading level 3</h3>
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<h6>Heading level 6</h6>
+
+<!-- This(<br>) is the line break tag. It is a self closing tag having nothing
+in between-->
+<!--This(<hr>) is the horizontal rule tag which is self closing with many
+attributes but an empty element with no content-->
+
+  <p>  How to structure text in html
+The first thing we want is a header <h1> for header 1. content is placed inside
+the angular opening and closing.Headers are from h1 - h6 with decreasing font
+size</p>
+   We have <p></p> for paragraph. Matter is placed in between the angular
+   brackets
+
+   For italicise we can use <em> or <i> with em being preferred
+   For bold use <b>< or <strong></strong> tags with strong tag preferred.
+<p></p>
